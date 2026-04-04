@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/python-3.8+-blue)
+![PyPI](https://img.shields.io/pypi/v/pygamelogic)
+![License](https://img.shields.io/badge/license-MIT-green)
 # pygamelogic
 
 A lightweight Python game logic library featuring inventory systems, item mechanics, and cooldown management — designed for simplicity and extensibility.
