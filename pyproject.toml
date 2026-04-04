@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pygamelogic"
+version = "0.1.0"
+description = "A simple game logic library with inventory, items, and cooldown system"
+authors = [
+    { name="Muhilvannan Elavazhagan" }
+]
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.8"
+
+[project.urls]
+Homepage = "https://github.com/muhilvannan16/pygamelogic"
+
+[tool.setuptools.packages.find]
+where = ["."]
