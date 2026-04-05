@@ -58,7 +58,7 @@ print("After:", player.current_health)
 ```
 Before: 100
 Potion used! Healed 20 HP.
-After: 100
+After: 120
 ```
 
 ---
