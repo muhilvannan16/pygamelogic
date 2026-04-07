@@ -1,4 +1,4 @@
-![Tests](https://github.com/YOUR_USERNAME/pygamelogic/actions/workflows/test.yml/badge.svg)
+![Tests](https://github.com/muhilvannan16/pygamelogic/actions/workflows/test.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.8+-blue)
 ![PyPI](https://img.shields.io/pypi/v/pygamelogic)
 ![License](https://img.shields.io/badge/license-MIT-green)
